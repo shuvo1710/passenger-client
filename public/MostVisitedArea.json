@@ -1,0 +1,113 @@
+[
+    
+
+
+    {
+        "name":"Machu Picchu, Peru",
+        "price":2310,
+        "day":"3",
+        "night":"4",
+        "rating":"5",
+        "details":"Machu Picchu , Ancient fortress city of the Incas in the Andes Mountains, south-central Peru.",
+        "picture":"https://i.ibb.co/SNSMgbp/machu-peru.jpg"
+    },
+
+
+    {
+        "name":"The Grand Canyon, Arizona",
+        "price":2410,
+        "day":"2",
+        "night":"3",
+        "rating":"4",
+        "details":"Grand Canyon is considered one of the finest examples of arid-land erosion in the world.",
+        "picture":"https://i.ibb.co/Fwf5fZr/grand-canyon.jpg"
+    },
+
+
+    {
+        "name":"Rome, Italy",
+        "price":2310,
+        "day":"3",
+        "night":"4",
+        "rating":"5",
+        "details":"The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.",
+        "picture":"https://i.ibb.co/9NF64Ft/rome.jpg"
+    },
+
+
+    {
+        "name":"Maui, Hawaii",
+        "price":2510,
+        "day":"4",
+        "night":"5",
+        "rating":"4",
+        "details":"Maui, known also as “The Valley Isle,” is the second largest Hawaiian island. The island beloved for its world-famous beaches",
+        "picture":"https://i.ibb.co/B2C6G1d/Maui-Hawaii.jpg"
+    },
+
+
+    {
+        "name":"Masai Mara, Kenya",
+        "price":2610,
+        "day":"4",
+        "night":"5",
+        "rating":"3",
+        "details":"Maasai Mara, also sometimes spelled Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok, Kenya, contiguous with the Serengeti National Park in Tanzania.",
+        "picture":"https://i.ibb.co/xSmVQnw/Masai-Mara-Kenya.jpg"
+    },
+
+
+    {
+        "name":"New Zealand",
+        "price":2710,
+        "day":"5",
+        "night":"6",
+        "rating":"4",
+        "details":"New Zealand is a land of great contrasts and diversity. Active volcanoes, spectacular caves, deep glacier lakes, verdant valleys, dazzling fjords.",
+        "picture":"https://i.ibb.co/tHNV7Pr/New-Zealand.jpg"
+    },
+
+
+    {
+        "name":"Istanbul, Turkey",
+        "price":2810,
+        "day":"3",
+        "night":"4",
+        "rating":"5",
+        "details":"Istanbul is a transcontinental city, straddling the Bosphorus strait in northwestern Turkey between the Sea of Marmara and the Black Sea.",
+        "picture":"https://i.ibb.co/vBQrt6w/Istanbul-Turkey.jpg"
+    },
+
+
+    {
+        "name":"Angkor Wat, Cambodia",
+        "price":2310,
+        "day":"3",
+        "night":"4",
+        "rating":"5",
+        "details":"Located just outside the Cambodian city of Siem Reap, Angkor Wat is the largest religious site in the world.",
+        "picture":"https://i.ibb.co/pxZV2Ds/rome.jpg"
+    },
+
+
+    {
+        "name":"London, England",
+        "price":2510,
+        "day":"4",
+        "night":"5",
+        "rating":"4",
+        "details":"This historic English city is another destination just filled with incredible places to visit. A trip to London is an opportunity to visit iconic places like the Tower Bridge, Buckingham Palace, and the Tower of London.",
+        "picture":"https://i.ibb.co/yWfrDgn/London-England.jpg"
+    },
+
+
+    {
+        "name":"Manhattan, New York",
+        "price":2310,
+        "day":"3",
+        "night":"4",
+        "rating":"5",
+        "details":"One of the five boroughs of New York City, Manhattan is actually an island, bordered by the East River and the Hudson and a little bit by the Harlem River.",
+        "picture":"https://i.ibb.co/G5jCXTy/Manhattan-New-York-1.jpg"
+    }
+]

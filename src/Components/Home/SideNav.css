@@ -1,0 +1,71 @@
+#mysidenav{
+    position: fixed;
+    margin-left:0;
+    margin-top: -400px;
+  
+   
+}
+#mysidenav a {
+    position: absolute;
+    width: 70px;
+    padding: 10px;
+    font-size: 35px;
+    text-decoration: none;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    transition: 1s;
+    
+    
+ 
+    
+}
+
+#mysidenav a:hover {
+    width: 90px;
+    color: black;
+    transition: ease 1s;
+   
+}
+
+#home {
+    top: 150px;
+    background-color:skyblue;
+    transition: ease 5s;
+    
+}
+
+
+
+#facebook {
+    top: 213px;
+    background-color: #9b59b6;
+    transition: ease 3s;
+}
+
+#instagram {
+
+    top: 276px;
+    background-color: #e67e22;
+    transition: ease 1s;
+}
+
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1480px) {
+    #mysidenav{
+        position: fixed;
+        margin-left:0;
+        margin-top: -650px;
+       
+    }
+  }
+@media only screen and (min-width: 1481px) and (max-width: 2100px) {
+    .searchBar{
+        margin-left: 200px;
+    }
+    
+  }
+
+
+
